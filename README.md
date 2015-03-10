@@ -84,53 +84,53 @@ A huge list of web free resources selected in more than 50 blogs and technology 
 - [Smush.it](https://wordpress.org/plugins/wp-smushit/): Plugin do Wordpress para otimização de imagens.
 
 ##### G. EDITORES DE IMAGENS GRATUITOS
-- Canva: Design gráfico extremamente simples para blogueiros.
-- Pixlr: O Pixlr Editor é um editor de fotos robusto que pode ser acessado no seu browser.
-- Skitch: Transmita sua mensagem com menos palavras.
-- Easel.ly: Estimula a criação e compartilhamento de recursos visuais belos.
-- Social Image Resizer Tool: Crie imagens otimizadas para mídias sociais.
-- Placeit: Modelos e templates grátis para produtos.
-- Recite: Transforme uma citação em uma obra de arte visual.
-- Meme Generator: O primeiro gerador online de memes.
+- [Canva](https://www.canva.com/): Design gráfico extremamente simples para blogueiros.
+- [Pixlr](http://apps.pixlr.com/editor/): O Pixlr Editor é um editor de fotos robusto que pode ser acessado no seu browser.
+- [Skitch](https://evernote.com/skitch/): Transmita sua mensagem com menos palavras.
+- [Easel.ly](http://www.easel.ly/): Estimula a criação e compartilhamento de recursos visuais belos.
+- [Social Image Resizer Tool](http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images/): Crie imagens otimizadas para mídias sociais.
+- [Placeit](https://placeit.net/): Modelos e templates grátis para produtos.
+- [Recite](http://www.recitethis.com/): Transforme uma citação em uma obra de arte visual.
+- [Meme Generator](http://memegenerator.net/): O primeiro gerador online de memes.
 
 ##### H. COLETA & ENVIO DE EMAILS GRÁTIS
-- Contact form 7: Um famoso plugin Wordpress para coletar endereços de email.
-- Mailchimp: Mande 12.000 emails para 2.000 assinantes de graça.
-- ManyContactsBar: Uma barra de contato no topo do seu site.
-- Hello Bar: Consiga mais assinantes para newsletters.
-- Sumome List Builder: Coleta de emails com uma caixinha estilo popover.
-- Scroll Triggered Box: Aumente sua taxa de conversão — Apenas Wordpress.
-- Sumome Scroll Box: Capture mais endereços de email, educadamente.
+- [Contact form 7](https://wordpress.org/plugins/contact-form-7/): Um famoso plugin Wordpress para coletar endereços de email.
+- [Mailchimp](http://mailchimp.com/): Mande 12.000 emails para 2.000 assinantes de graça.
+- [ManyContactsBar](https://www.manycontacts.com/): Uma barra de contato no topo do seu site.
+- [Hello Bar](http://hellobar.com/): Consiga mais assinantes para newsletters.
+- [Sumome List Builder](https://sumome.com/app/list-builder): Coleta de emails com uma caixinha estilo popover.
+- [Scroll Triggered Box](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/): Aumente sua taxa de conversão – Apenas Wordpress.
+- [Sumome Scroll Box](http://sumome.com/app/scroll-box): Capture mais endereços de email, educadamente.
 
 ##### I. MÍDIA SOCIAL GRATUITA + GESTÃO DE COMUNIDADES + PESQUISAS
-- WriteRack: A forma mais fácil de blogar/tuitar.
-- Spruce: Crie imagens prontas para o Twitter em segundos.
-- Click To Tweet: Ganhe mais compartilhamentos para seu conteúdo.
-- MyTweetLinks: Aumenta o tráfego no Twitter.
-- Latergram: Faça o planejamento e o agendamento dos seus posts no Instagram com facilidade.
-- Wordpress Pin it Button for Images: Adicione um botão “Pin It”.
-- SharedCount: Rastreamento dos compartilhamentos, curtidas, tweets e outras métricas de um URL.
-- Justunfollow: Para seguir / parar de seguir pessoas no Twitter.
-- SocialRank: Identifique, organize e gerencie seus seguidores no Twitter.
-- Klout: Escore de influência da mídia social em uma extensão para seu navegador.
-- Ritetag: Análise instantânea de hashtags.
-- Social Analytics: Interações de um URL na maioria das plataformas sociais.
-- Riffle: Perfil e informações completas de um usuário do Twitter.
-- Buffer Free Plan: Agende posts no Twitter, Facebook, Linkedin, Google+.
-- Bitly: Crie, compartilhe e rastreie links reduzidos.
-- Flament: Uma barra de compartilhamentos gratuita, bela e personalizável.
-- Addthis: Consiga mais compartilhamentos, seguidores e conversões.
-- Sumome Share: Otimiza automaticamente seus botões de compartilhamento para atingir o máximo de tráfego.
-- Digg Digg: Plugin para todos seus botões de compartilhamento.
-- Disqus: Construa uma comunidade de leitores e comentaristas ativos.
-- Typeform: Criação de belas pesquisas online & construção de formulários .
-- Tally: Crie pesquisas rapidamente.
+- [WriteRack](http://writerack.com/): A forma mais fácil de blogar/tuitar.
+- [Spruce](http://www.tryspruce.com/): Crie imagens prontas para o Twitter em segundos.
+- [Click To Tweet](http://coschedule.com/click-to-tweet): Ganhe mais compartilhamentos para seu conteúdo.
+- [MyTweetLinks](http://mytweetlinks.com/): Aumenta o tráfego no Twitter.
+- [Latergram](http://www.latergram.me/): Faça o planejamento e o agendamento dos seus posts no Instagram com facilidade.
+- [Wordpress Pin it Button for Images](https://wordpress.org/plugins/pinterest-pin-it-button-for-images/): Adicione um botão “Pin It”.
+- [SharedCount](http://www.sharedcount.com/): Rastreamento dos compartilhamentos, curtidas, tweets e outras métricas de um URL.
+- [Justunfollow](http://www.justunfollow.com/): Para seguir / parar de seguir pessoas no Twitter.
+- [SocialRank](https://www.socialrank.com/): Identifique, organize e gerencie seus seguidores no Twitter.
+- [Klout](http://blog.klout.com/2014/06/klout-browser-extensions/): Escore de influência da mídia social em uma extensão para seu navegador.
+- [Ritetag](https://ritetag.com/hashtag-academy/ritetag-browser-extensions-scheduling-productivity): Análise instantânea de hashtags.
+- [Social Analytics](https://chrome.google.com/webstore/detail/social-analytics/pgckigmaefoaemjpijdepakcghjkggmg/related): Interações de um URL na maioria das plataformas sociais.
+- [Riffle](http://crowdriff.com/riffle/): Perfil e informações completas de um usuário do Twitter.
+- [Buffer Free Plan](https://bufferapp.com/): Agende posts no Twitter, Facebook, Linkedin, Google+.
+- [Bitly](https://bitly.com/): Crie, compartilhe e rastreie links reduzidos.
+- [Flament](http://filament.io/flare): Uma barra de compartilhamentos gratuita, bela e personalizável.
+- [Addthis](http://www.addthis.com/): Consiga mais compartilhamentos, seguidores e conversões.
+- [Sumome Share](https://sumome.com/app/share): Otimiza automaticamente seus botões de compartilhamento para atingir o máximo de tráfego.
+- [Digg Digg](https://wordpress.org/plugins/digg-digg/installation/): Plugin para todos seus botões de compartilhamento.
+- [Disqus](https://disqus.com/): Construa uma comunidade de leitores e comentaristas ativos.
+- [Typeform](http://www.typeform.com/): Criação de belas pesquisas online & construção de formulários .
+- [Tally](http://tally.tl/): Crie pesquisas rapidamente.
 
 ##### J. TESTES A/B & GROWTH HACKING
-- Petit Hacks: Hacks de aquisição, retenção e renda usados por empresas.
-- Optimizely: Plataforma de otimização para websites e apps.
-- Hello Bar: Ferramenta para testes A/B com diferentes CTAs & palavras de impacto.
-- GrowthHackers: Possibilitando o crescimento. Juntos.
+- [Petit Hacks](http://petithacks.com/): Hacks de aquisição, retenção e renda usados por empresas.
+- [Optimizely](https://www.optimizely.com/): Plataforma de otimização para websites e apps.
+- [Hello Bar](https://www.hellobar.com/): Ferramenta para testes A/B com diferentes CTAs & palavras de impacto.
+- [GrowthHackers](https://growthhackers.com/): Possibilitando o crescimento. Juntos.
 
 ### Design + Code
 ##### A. RECURSOS DE DESIGN GRATUITOS
