@@ -1,3 +1,5 @@
+### *** Need translation
+
 # Web Free Resources
 A huge list of web free resources selected in more than 50 blogs and technology sites such as TNW, Buffer Blog, Product Hunt, AngelList, Pickcrew, Betalist, Medium, etc, for all you needs.
 
@@ -48,38 +50,38 @@ A huge list of web free resources selected in more than 50 blogs and technology 
 - Outros: [Google+ Postagens Interessantes](https://plus.google.com/explore) | [Twitter Trending](https://twitter.com/) | [Quora](http://www.quora.com/Content-Strategy) | [Reddit](http://www.reddit.com/)
 
 ##### E. SEO GRÁTIS + ANÁLISE DE WEBSITES
-- Open Site Explorer: Uma ferramenta compreensível para análise de links.
-- Ahrefs: Explorador de sites e checagem de backlinks.
-- Quick Sprout: Análise completa do seu website.
-- Wordpress SEO by Yoast: Otimização total do seu site WordPress.
-- SEO Site Checkup: Verificação gratuita dos problemas de SEO do seu site.
-- Hubspot Marketing Grader: Avalie o seu marketing.
-- SimilarWeb: Analise estatísticas de websites para qualquer domínio.
-- Alexa Ranking: Ranqueamento e análise de websites.
-- SERPs Rank Checker: Rankings gratuitos de palavras-chaves e checagem de SERP.
-- OpenLinkProfiler: Os backlinks mais recentes, de graça.
-- Keywordtool.io: Uma alternativa gratuita ao Planejador de Palavras-Chave do Google.
-- Google: Analytics | Planejador de Palavras-Chave | Webmaster Tools | Trends
-- Nibbler: Teste qualquer site.
-- Browseo: Como os sites de busca enxergam o seu site.
-- Broken Links: Encontre links quebrados, redirecionamentos e outros problemas.
-- Copyscape: Procure cópias da sua página na web.
-- Woorank: Avaliação de websites e ferramenta de SEO.
-- Google Pagespeed Insights: Veja a performance do seu site.
-- Pingdom Website Speed Test: Testes + tempo de carregamento do site.
-- GTMetrics: Analise a velocidade do seu site.
-- Moz Local: Veja suas listagens locais no Google, Bing e outros.
-- XML Sitemaps: Gerador de mapas de sites que cria variações em XML & HTML.
-- W3C validator: Serviço de validação fácil de usar.
-- Shopify E-commerce Report: Obtenha um relatório gratuito do seu e-commerce.
+- [Open Site Explorer](https://moz.com/researchtools/ose/): Uma ferramenta compreensível para análise de links.
+- [Ahrefs](https://ahrefs.com/): Explorador de sites e checagem de backlinks.
+- [Quick Sprout](http://www.quicksprout.com/): Análise completa do seu website.
+- [Wordpress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/): Otimização total do seu site WordPress.
+- [SEO Site Checkup](): Verificação gratuita dos problemas de SEO do seu site.
+- [Hubspot Marketing Grader](): Avalie o seu marketing.
+- [SimilarWeb](): Analise estatísticas de websites para qualquer domínio.
+- [Alexa Ranking](): Ranqueamento e análise de websites.
+- [SERPs Rank Checker](): Rankings gratuitos de palavras-chaves e checagem de SERP.
+- [OpenLinkProfiler](): Os backlinks mais recentes, de graça.
+- [Keywordtool.io](): Uma alternativa gratuita ao Planejador de Palavras-Chave do Google.
+- [Google](): Analytics | Planejador de Palavras-Chave | Webmaster Tools | Trends
+- [Nibbler](): Teste qualquer site.
+- [Browseo](): Como os sites de busca enxergam o seu site.
+- [Broken Links](): Encontre links quebrados, redirecionamentos e outros problemas.
+- [Copyscape](): Procure cópias da sua página na web.
+- [Woorank](): Avaliação de websites e ferramenta de SEO.
+- [Google Pagespeed Insights](): Veja a performance do seu site.
+- [Pingdom Website Speed Test](): Testes + tempo de carregamento do site.
+- [GTMetrics](): Analise a velocidade do seu site.
+- [Moz Local](): Veja suas listagens locais no Google, Bing e outros.
+- [XML Sitemaps](): Gerador de mapas de sites que cria variações em XML & HTML.
+- [W3C validator](): Serviço de validação fácil de usar.
+- [Shopify E-commerce Report](): Obtenha um relatório gratuito do seu e-commerce.
 
 ##### F. OTIMIZADORES DE IMAGENS GRATUITOS
-- TinyJPG | TinyPNG Compactação de imagens.
-- Compressor.io: Otimização e compactação de imagens online.
-- Kraken: Otimize suas imagens e acelere seu site.
-- ImageOptimizer: Redimensione e diminua o tamanho dos seus arquivos de imagem.
-- ImageOptim: Faz as imagens ocuparem menos espaço em disco, tornando-as mais rápidas de carregar.
-- Smush.it: Plugin do Wordpress para otimização de imagens.
+- [TinyJPG](https://tinyjpg.com/) | [TinyPNG](https://tinypng.com/): Compactação de imagens.
+- [Compressor.io](https://compressor.io/): Otimização e compactação de imagens online.
+- [Kraken](https://kraken.io/web-interface): Otimize suas imagens e acelere seu site.
+- [ImageOptimizer](http://www.imageoptimizer.net/Pages/Home.aspx): Redimensione e diminua o tamanho dos seus arquivos de imagem.
+- [ImageOptim](https://imageoptim.com/): Faz as imagens ocuparem menos espaço em disco, tornando-as mais rápidas de carregar.
+- [Smush.it](https://wordpress.org/plugins/wp-smushit/): Plugin do Wordpress para otimização de imagens.
 
 ##### G. EDITORES DE IMAGENS GRATUITOS
 - Canva: Design gráfico extremamente simples para blogueiros.
