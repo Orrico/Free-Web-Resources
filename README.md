@@ -1,6 +1,5 @@
 ### *** Need translation
-
-# Web Free Resources
+# Free Web Resources
 A huge list of web free resources selected in more than 50 blogs and technology sites such as TNW, Buffer Blog, Product Hunt, AngelList, Pickcrew, Betalist, Medium, etc, for all you needs.
 
 ### Business + Marketing
