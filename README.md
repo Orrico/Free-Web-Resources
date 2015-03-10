@@ -1,20 +1,20 @@
-# Web-Free-Resources
+# Web Free Resources
 A huge list of web free resources selected in more than 50 blogs and technology sites such as TNW, Buffer Blog, Product Hunt, AngelList, Pickcrew, Betalist, Medium, etc, for all you needs.
 
 ### Business + Marketing
 A. WEBSITE GRATUITO + LOGO + HOSPEDAGEM + INVOICES
-HTML5 UP: Templates responsivos de HTML5 e CSS3.
-Bootswatch: Temas gratuitos para Bootstrap.
-Templated: Uma coleção de 845 templates gratuitos de CSS & HTML5.
-Wordpress.org | Wordpress.com: Crie seu novo website de graça.
-Strikingly.com Domain: Um website gratuito para domínios strikingly.com.
-Withoomph: Lindos logos desenhados automaticamente.
-Hipster Logo Generator: É legal, moderno e estiloso. É hipster.
-Squarespace Free Logo: Download gratuito da versão de baixa resolução.
-Hive: O primeiro serviço ilimitado de armazenamento em nuvem do mundo .
-Invoice to me: Gerador gratuito de invoices.
-Free Invoice Generator: Outro gerador gratuito de invoices.
-Slimvoice: Invoices absurdamente simples.
+[HTML5 UP](http://html5up.net/): Templates responsivos de HTML5 e CSS3.
+[Bootswatch](http://bootswatch.com/): Temas gratuitos para Bootstrap.
+[Templated](http://templated.co/): Uma coleção de 845 templates gratuitos de CSS & HTML5.
+[Wordpress.org](https://wordpress.org/) | [Wordpress.com](https://wordpress.com/): Crie seu novo website de graça.
+[Strikingly.com Domain](https://www.strikingly.com/): Um website gratuito para domínios strikingly.com.
+[Withoomph](https://withoomph.com/): Lindos logos desenhados automaticamente.
+[Hipster Logo Generator](http://www.hipsterlogogenerator.com/): É legal, moderno e estiloso. É hipster.
+[Squarespace Free Logo](http://www.squarespace.com/logo/): Download gratuito da versão de baixa resolução.
+[Hive](https://www.hive.im/): O primeiro serviço ilimitado de armazenamento em nuvem do mundo .
+[Invoice to me](http://invoiceto.me/): Gerador gratuito de invoices.
+[Free Invoice Generator](https://www.free-invoice-generator.com/): Outro gerador gratuito de invoices.
+[Slimvoice](http://slimvoice.co/): Invoices absurdamente simples.
 
 B. GERADORES DE NOMES PARA NEGÓCIOS E PROJETOS
 The Name App: Encontre um nome disponível para sua brilhante ideia.
