@@ -45,7 +45,7 @@ A huge list of web free resources selected in more than 50 blogs and technology 
 - [Buzzsumo](http://buzzsumo.com/): Analize qual conteúdo funciona melhor (em inglês).
 - [Hubspot Blog Topic Generator](http://www.hubspot.com/blog-topic-generator): Ideias personalizáveis para blogs (em inglês).
 - [Swayy](http://www.swayy.co/): Descubra o conteúdo mais impactante. Grátis para 1 usuário (em inglês).
-- Outros: [Google+ Postagens Interessantes](https://plus.google.com/explore/_) | [Twitter Trending](https://twitter.com/) | [Quora](http://www.quora.com/Content-Strategy) | [Reddit](http://www.reddit.com/)
+- Outros: [Google+ Postagens Interessantes](https://plus.google.com/explore) | [Twitter Trending](https://twitter.com/) | [Quora](http://www.quora.com/Content-Strategy) | [Reddit](http://www.reddit.com/)
 
 ##### E. SEO GRÁTIS + ANÁLISE DE WEBSITES
 - Open Site Explorer: Uma ferramenta compreensível para análise de links.
