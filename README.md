@@ -133,24 +133,24 @@ A huge list of free web resources selected in more than 50 blogs and technology 
 
 ### Design + Code
 ##### A. RECURSOS DE DESIGN GRATUITOS
-- Freebbble: Itens grátis de alta qualidade no Dribbble.
-- Dribbble: Resultados de busca para “freebie” no Dribbble. Um tremendo acervo de freebies.
-- Graphic Burger: Saborosos recursos de design feitos com carinho em cada pixel.
-- Pixel Buddha: Recursos gratuitos e recursos premium para profissionais.
-- Premium Pixels: Itens grátis para criativos.
-- Fribbble: Recursos gratuitos de PSD feitos pelo pessoal do Dribbble, organizados por Gilbert Pellegrom.
-- Freebiesbug: Os mais recentes PSDs gratuitos & outros recursos para designers.
-- 365 Psd: Baixe um PSD gratuito por dia.
-- Dbf: Os melhores freebies de design do Dribbble e Behance.
-- Marvel: Recursos gratuitos dos designers que amamos.
-- UI Space: Freebies de alta qualidade feitos à mão por pessoas geniais.
-- Free Section of Pixeden: Recursos gratuitos de design.
-- Free Section of Creative Market: Um novo freebie toda segunda-feira.
-- Teehan+Lax: DiOS 8 GUI PSD (iPhone 6).
-- Teehan+Lax: iPad GUI PSD.
-- Freepik: Recursos gráficos gratuitos para todos.
-- Tech&All: PSD, notícias de tecnologia e outros recursos grátis.
-- Tethr: O mais lindo kit de design para o iOS que existe.
+- [Freebbble](http://freebbble.com/): Itens grátis de alta qualidade no Dribbble.
+- [Dribbble](https://dribbble.com/search?q=freebie): Resultados de busca para “freebie” no Dribbble. Um tremendo acervo de freebies.
+- [Graphic Burger](http://graphicburger.com/): Saborosos recursos de design feitos com carinho em cada pixel.
+- [Pixel Buddha](http://pixelbuddha.net/): Recursos gratuitos e recursos premium para profissionais.
+- [Premium Pixels](http://www.premiumpixels.com/): Itens grátis para criativos.
+- [Fribbble](http://fribbble.com/): Recursos gratuitos de PSD feitos pelo pessoal do Dribbble, organizados por Gilbert Pellegrom.
+- [Freebiesbug](http://freebiesbug.com/): Os mais recentes PSDs gratuitos & outros recursos para designers.
+- [365 Psd](http://365psd.com/): Baixe um PSD gratuito por dia.
+- [Dbf](http://dbfreebies.co/): Os melhores freebies de design do Dribbble e Behance.
+- [Marvel](https://marvelapp.com/resources/): Recursos gratuitos dos designers que amamos.
+- [UI Space](http://uispace.net/): Freebies de alta qualidade feitos à mão por pessoas geniais.
+- [Free Section of Pixeden](http://www.pixeden.com/free-design-web-resources): Recursos gratuitos de design.
+- [Free Section of Creative Market](https://creativemarket.com/free-goods): Um novo freebie toda segunda-feira.
+- [Teehan+Lax](http://www.teehanlax.com/tools/iphone/): DiOS 8 GUI PSD (iPhone 6).
+- [Teehan+Lax](http://www.teehanlax.com/tools/ipad/): iPad GUI PSD.
+- [Freepik](http://www.freepik.com/): Recursos gráficos gratuitos para todos.
+- [Tech&All](http://www.techandall.com/): PSD, notícias de tecnologia e outros recursos grátis.
+- [Tethr](http://www.invisionapp.com/tethr): O mais lindo kit de design para o iOS que existe.
 
 ##### B. SELETORES DE CORES
 - Material Palette: Crie e exporte uma paleta de cores Material Design.
