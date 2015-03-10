@@ -153,26 +153,26 @@ A huge list of free web resources selected in more than 50 blogs and technology 
 - [Tethr](http://www.invisionapp.com/tethr): O mais lindo kit de design para o iOS que existe.
 
 ##### B. SELETORES DE CORES
-- Material Palette: Crie e exporte uma paleta de cores Material Design.
-- New Flat UI Color Picker: Os melhores tons flat para UI Design.
-- Flat UI Colors: Lindas cores para flat design.
-- Coolors: Um gerador de esquemas de cores extremamente rápido.
-- Skala Color: Um extraordinário seletor de cores para designers e desenvolvedores.
-- Couleurs: Um aplicativo simples para capturar e fazer ajustes nas cores que surgem em sua tela.
-- Material UI Colors: Paleta de cores Material UI para Android, Web & iOS.
-- Colorful Gradients: Gradientes gerados automaticamente por um computador.
-- Adaptive Backgrounds: Faça a extração de cores dominantes das imagens.
-- Brand Colors: Cores usadas por marcas famosas.
-- Paletton: O designer de esquemas de cores.
-- 0 to 255: Uma ferramenta simples que ajuda webdesigners a encontrar variações de qualquer cor.
-- Colour Lovers: Crie e compartilhe cores, paletas e padrões.
-- Adobe Color CC: Combinações de cores da comunidade Kuler.
-- Bootflat: Cores perfeitas para flat design.
-- Hex Colorrrs: Conversor de Hex para RGB.
-- Get UI Colors: Cores UI incríveis.
-- Coleure: Seletor de cores inteligente.
-- Colllor: Gerador de paletas de cores.
-- Palette for Chrome: Cria uma paleta de cores a partir de uma imagem.
+- [Material Palette](http://www.materialpalette.com/): Crie e exporte uma paleta de cores Material Design.
+- [New Flat UI Color Picker](http://www.flatuicolorpicker.com/): Os melhores tons flat para UI Design.
+- [Flat UI Colors](http://flatuicolors.com/): Lindas cores para flat design.
+- [Coolors](http://coolors.co/): Um gerador de esquemas de cores extremamente rápido.
+- [Skala Color](http://bjango.com/mac/skalacolor/): Um extraordinário seletor de cores para designers e desenvolvedores.
+- [Couleurs](http://couleursapp.com/): Um aplicativo simples para capturar e fazer ajustes nas cores que surgem em sua tela.
+- [Material UI Colors](http://www.materialui.co/colors): Paleta de cores Material UI para Android, Web & iOS.
+- [Colorful Gradients](http://colorfulgradients.tumblr.com/): Gradientes gerados automaticamente por um computador.
+- [Adaptive Backgrounds](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/): Faça a extração de cores dominantes das imagens.
+- [Brand Colors](http://brandcolors.net/): Cores usadas por marcas famosas.
+- [Paletton](http://paletton.com/): O designer de esquemas de cores.
+- [0 to 255](http://www.0to255.com/): Uma ferramenta simples que ajuda webdesigners a encontrar variações de qualquer cor.
+- [Colour Lovers](http://www.colourlovers.com/): Crie e compartilhe cores, paletas e padrões.
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Combinações de cores da comunidade Kuler.
+- [Bootflat](http://bootflat.github.io/color-picker.html): Cores perfeitas para flat design.
+- [Hex Colorrrs](http://hex.colorrrs.com/): Conversor de Hex para RGB.
+- [Get UI Colors](http://getuicolors.com/): Cores UI incríveis.
+- [Coleure](https://www.coleure.com/): Seletor de cores inteligente.
+- [Colllor](http://colllor.com/): Gerador de paletas de cores.
+- [Palette for Chrome](https://chrome.google.com/webstore/detail/palette-for-chrome/oolpphfmdmjbojolagcbgdemojhcnlod): Cria uma paleta de cores a partir de uma imagem.
 
 ##### C. INSPIRAÇÃO
 - MaterialUp: Inspiração diária para Material Design.
