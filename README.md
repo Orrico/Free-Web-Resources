@@ -17,35 +17,35 @@ A huge list of web free resources selected in more than 50 blogs and technology 
 - [Slimvoice](http://slimvoice.co/): Invoices absurdamente simples.
 
 ##### B. GERADORES DE NOMES PARA NEGÓCIOS E PROJETOS
-- The Name App: Encontre um nome disponível para sua brilhante ideia.
-- Naminum: Descubra o nome perfeito para sua empresa.
-- Short Domain Search: Nomes de domínios curtos e com uma só palavra à disposição.
-- Wordoid: Escolha um nome curto e chamativo para o seu negócio.
-- Hipster Business Name: Gerador de nome de empresas hipsters.
-- Impossibility: O melhor gerador de nomes de domínios de todos os tempos
-- Lean Domain Search: Encontre um nome de domínio para seu site em questão de segundos.
-- Domainr: Busca rápida e gratuita de nomes de domínio. URLs curtos.
+- [The Name App](http://thenameapp.com/): Encontre um nome disponível para sua brilhante ideia.
+- [Naminum](http://www.naminum.com/): Descubra o nome perfeito para sua empresa.
+- [Short Domain Search](http://shortdomainsearch.com/): Nomes de domínios curtos e com uma só palavra à disposição.
+- [Wordoid](http://wordoid.com/): Escolha um nome curto e chamativo para o seu negócio.
+- [Hipster Business Name](http://www.hipsterbusiness.name/): Gerador de nome de empresas hipsters.
+- [Impossibility](http://impossibility.org/): O melhor gerador de nomes de domínios de todos os tempos
+- [Lean Domain Search](http://www.leandomainsearch.com/): Encontre um nome de domínio para seu site em questão de segundos.
+- [Domainr](https://domainr.com/): Busca rápida e gratuita de nomes de domínio. URLs curtos.
 
 ##### C. TEXTOS / BLOGS
-- Hemingway: Este app torna sua escrita em inglês mais clara e impactante.
-- Grammarly: Localiza e corrige erros gramaticais em inglês.
-- Medium: Traga suas histórias e ideias.
-- ZenPen: Um processador de texto mínimo na web.
-- Liberio: Criação e publicação de ebooks, direto do Google Drive.
-- Editorial Calendar: Veja todos seus posts. Arraste e solte para organizar o seu blog.
-- Story Wars: Escreva histórias coletivamente.
-- Headline Analyzer: Analisa o valor de marketing emocional de manchetes (em inglês).
-- WP Hide Post: Controle a visibilidade de itens em seu blog.
-- Social Locker: Peça aos visitantes para “pagar” pelo seu conteúdo com um tweet, etc.
-- Egg Timer: Crie um timer e salve nos favoritos para usar novamente.
+- [Hemingway](http://www.hemingwayapp.com/): Este app torna sua escrita em inglês mais clara e impactante.
+- [Grammarly](https://free.grammarly.com/): Localiza e corrige erros gramaticais em inglês.
+- [Medium](https://medium.com/): Traga suas histórias e ideias.
+- [ZenPen](http://www.zenpen.io/): Um processador de texto mínimo na web.
+- [Liberio](http://liber.io/): Criação e publicação de ebooks, direto do Google Drive.
+- [Editorial Calendar](https://wordpress.org/plugins/editorial-calendar/): Veja todos seus posts. Arraste e solte para organizar o seu blog.
+- [Story Wars](https://www.storywars.net/): Escreva histórias coletivamente.
+- [Headline Analyzer](http://www.aminstitute.com/headline/): Analisa o valor de marketing emocional de manchetes (em inglês).
+- [WP Hide Post](https://wordpress.org/plugins/wp-hide-post/): Controle a visibilidade de itens em seu blog.
+- [Social Locker](https://wordpress.org/plugins/social-locker/): Peça aos visitantes para “pagar” pelo seu conteúdo com um tweet, etc.
+- [Egg Timer](http://e.ggtimer.com/): Crie um timer e salve nos favoritos para usar novamente.
 
 ##### D. IDEIAS E TENDÊNCIAS DE CONTEÚDO
-- Portent: Gerador de ideias de conteúdo (em inglês).
-- Google Trends: Uma nova forma de mostrar termos mais buscados.
-- Buzzsumo: Analize qual conteúdo funciona melhor (em inglês).
-- Hubspot Blog Topic Generator: Ideias personalizáveis para blogs (em inglês).
-- Swayy: Descubra o conteúdo mais impactante. Grátis para 1 usuário (em inglês).
-- Outros: Google+ Postagens Interessantes | Twitter Trending | Quora | Reddit
+- [Portent](http://www.portent.com/tools/title-maker): Gerador de ideias de conteúdo (em inglês).
+- [Google Trends](http://www.google.com/trends/hottrends/visualize?pn=p1): Uma nova forma de mostrar termos mais buscados.
+- [Buzzsumo](http://buzzsumo.com/): Analize qual conteúdo funciona melhor (em inglês).
+- [Hubspot Blog Topic Generator](http://www.hubspot.com/blog-topic-generator): Ideias personalizáveis para blogs (em inglês).
+- [Swayy](http://www.swayy.co/): Descubra o conteúdo mais impactante. Grátis para 1 usuário (em inglês).
+- Outros: [Google+ Postagens Interessantes](https://plus.google.com/explore/_) | [Twitter Trending](https://twitter.com/) | [Quora](http://www.quora.com/Content-Strategy) | [Reddit](http://www.reddit.com/)
 
 ##### E. SEO GRÁTIS + ANÁLISE DE WEBSITES
 - Open Site Explorer: Uma ferramenta compreensível para análise de links.
